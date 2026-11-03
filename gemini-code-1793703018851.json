@@ -1,0 +1,21 @@
+{
+  "name": "Memoshi",
+  "short_name": "Memoshi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fdf1f6",
+  "theme_color": "#ff8fb8",
+  "icons": [
+    {
+      "src": "icon_3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
